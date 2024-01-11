@@ -12,3 +12,4 @@ C:\Users\Vahdet\Documents\Pratikler\karakter_degistirme\obj\Debug\net8.0\refint\
 C:\Users\Vahdet\Documents\Pratikler\karakter_degistirme\obj\Debug\net8.0\karakter_degistirme.pdb
 C:\Users\Vahdet\Documents\Pratikler\karakter_degistirme\obj\Debug\net8.0\karakter_degistirme.genruntimeconfig.cache
 C:\Users\Vahdet\Documents\Pratikler\karakter_degistirme\obj\Debug\net8.0\ref\karakter_degistirme.dll
+C:\Users\Vahdet\Documents\Pratikler\karakter_degistirme\obj\Debug\net8.0\karakter_degistirme.sourcelink.json
